@@ -1,1 +1,2 @@
-from sqlalchemy import create_engine, Table, 
+from sqlalchemy import create_engine, Table, MetaData
+
